@@ -1,0 +1,7 @@
+ID ref;ISBN;URL;UserName;FileType;ProtectionType;Error reason
+11379805;9783847659785;http://localhost:8089/download/0/?token=abcdef;testmail@testserver.cc;E;N;(403) Forbidden
+11379808;9783847685005;http://localhost:8089/download/1/?token=bcdefa;testmail@testserver.cc;E;N;(403) Forbidden
+3169979;9783864791413;http://localhost:8089/download/2/?token=cdefab;testmail@testserver.cc;E;W;(404) Not Found
+7550902;9783864791413;http://localhost:8089/download/3/?token=defabc;testmail@testserver.cc;E;W;(404) Not Found
+704631;9783863496555;http://localhost:8089/download/4/?token=efabcd;testmail@testserver.cc;E;N;(502) Bad Gateway
+705891;9783868698855;http://localhost:8089/download/5/?token=fabcde;testmail@testserver.cc;P;W;Download failed

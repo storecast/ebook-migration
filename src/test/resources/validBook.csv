@@ -1,0 +1,2 @@
+ID ref;ISBN;URL;UserName;FileType;ProtectionType;Error reason
+11379805;9783847659785;http://localhost:8089/download/0/?token=abcdef;testmail@testserver.cc;E;N;(403) Forbidden
